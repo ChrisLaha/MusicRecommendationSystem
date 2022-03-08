@@ -5,7 +5,7 @@
 * Personlaize recommendations Utility Matrix - Model
 * X = set of Customers
 * I = Set of Items
-
+---
 * Utility Function u: X * I -> R
 * R = set of ratings
 * R is a totally ordered set
