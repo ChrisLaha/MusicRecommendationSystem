@@ -1,5 +1,6 @@
 # MusicRecommendationSystem
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommender_systems.png?raw=true)
+![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/plan_of_action.png?raw=true)
 * Create a music recommendation system
 * Given a dataset of users, write code to find the Nearest Neighbor recommendations for user X based on Euclidean similarity measure
 * Find artists that other users in the data set have rated to recommend artists that user X may also like
