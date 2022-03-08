@@ -5,7 +5,7 @@
 * Personlaize recommendations Utility Matrix - Model
 * X = set of Customers
 * I = Set of Items
-* ---
+---
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommender_systems.png?raw=true)
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/plan_of_action.png?raw=true)
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommendations.png?raw=true)
