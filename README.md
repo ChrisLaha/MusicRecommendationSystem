@@ -1,11 +1,11 @@
 # MusicRecommendationSystem
+* ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommender_systems.png?raw=true)
 * Create a music recommendation system
 * Given a dataset of users, write code to find the Nearest Neighbor recommendations for user X based on Euclidean similarity measure
 * Find artists that other users in the data set have rated to recommend artists that user X may also like
 * Personlaize recommendations Utility Matrix - Model
 * X = set of Customers
 * I = Set of Items
-* ![output](https://github.com/ChrisLaha/leverage_trading_bot_ccxt/blob/main/images/algotrading.jpeg?raw=true)
 ---
 * Utility Function u: X * I -> R
 * R = set of ratings
