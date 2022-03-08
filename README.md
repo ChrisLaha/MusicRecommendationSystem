@@ -10,3 +10,12 @@
 * R = set of ratings
 * R is a totally ordered set
 * e.g., 0-5 Stars, real number [0,1]
+---
+## Key Problems
+1. Gathering "known" ratings for the matrix
+* How to collect the data in the utility matrix
+2. Extrapolate unknown ratings from the known ones
+* Mainly interested in high unknown ratings
+* We are not interested in knowing what you don't like but what you do like
+3. Evaluating extrapolation methods
+* How to measure success/performance of recommendation methods
