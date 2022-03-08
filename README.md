@@ -10,6 +10,7 @@
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/plan_of_action.png?raw=true)
 ![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommendations.png?raw=true)
 ---
+
 * Utility Function u: X * I -> R
 * R = set of ratings
 * R is a totally ordered set
