@@ -5,6 +5,7 @@
 * Personlaize recommendations Utility Matrix - Model
 * X = set of Customers
 * I = Set of Items
+* ![output](https://github.com/ChrisLaha/leverage_trading_bot_ccxt/blob/main/images/algotrading.jpeg?raw=true)
 ---
 * Utility Function u: X * I -> R
 * R = set of ratings
