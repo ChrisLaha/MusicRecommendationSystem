@@ -22,4 +22,4 @@
 * We are not interested in knowing what you don't like but what you do like
 3. Evaluating extrapolation methods
 * How to measure success/performance of recommendation methods
-![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommendations.png?raw=true
+![output](https://github.com/ChrisLaha/MusicRecommendationSystem/blob/main/images/recommendations.png?raw=true)
